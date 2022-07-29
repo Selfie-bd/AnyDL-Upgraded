@@ -11,13 +11,13 @@
     "website": "",
     "success_url": "",
     "env": {
-        "API_ID": {
+        "APP_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
         },
         "API_HASH": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
         },
-        "BOT_TOKEN": {
+        "TG_BOT_TOKEN": {
             "description": "Get this from @BotFather XD"
         }
     },
