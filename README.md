@@ -1,6 +1,7 @@
 
-
-https://img.shields.io/static/v1?label=Knotters&message=Project&color=1657ce&link=https://knotters.org&style=for-the-badge
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/selfie-bd/AnyDL-Upgraded&title=Profile%20Views)
+<br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ (Selfie-bd) Cᴏᴜɴᴛ</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{selfie-bd}/count.svg" /></p> 
 
 ## AnyDLBot-Upgraded
 
